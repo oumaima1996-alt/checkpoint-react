@@ -1,0 +1,29 @@
+.Navbar {
+    border-bottom: 1px solid black;
+    background-color: #34495E ;
+   
+    height: 100px;
+
+}
+footer {
+   border-top: 1px solid black;
+   background-color: #34495E ;
+   margin-top: 2px;
+   margin-bottom: 0px;
+   height: 100px;
+   text-align: center;
+}
+.Name {
+    width: 400px;
+    text-align: center;
+}
+ Form {
+    margin-left: 200px;
+    text-align: left;
+} 
+.Formulaire{
+    text-align: center;
+
+    
+
+}
